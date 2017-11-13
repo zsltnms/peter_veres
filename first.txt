@@ -1,3 +1,4 @@
+Zsolt Nemes was here
 This my frist file on Git training.
 2nd line added.
 3rd line
